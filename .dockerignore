@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 venv/
+.git/
 *.ipynb
 .DS_Store
 *.pt
